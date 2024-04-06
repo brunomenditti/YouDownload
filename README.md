@@ -2,6 +2,9 @@
 
 Este projeto é um aplicativo simples de interface gráfica (GUI) desenvolvido em Python que permite aos usuários baixar vídeos do YouTube especificando o link do vídeo. Os vídeos são baixados na melhor resolução disponível e salvos em um diretório `downloads` no diretório do aplicativo.
 
+![image](https://github.com/brunomenditti/YouDownload/assets/80489647/c4db13d9-a6ed-4443-9b89-7498688fa3a6)
+
+
 ## Pré-requisitos
 
 Antes de iniciar, certifique-se de ter o Python instalado em seu sistema. Este projeto foi testado com Python 3.8+. Você também precisará das seguintes bibliotecas:
